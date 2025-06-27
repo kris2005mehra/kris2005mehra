@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">I Am Kris Mehra From West Bengal, India 🇮🇳<br><br>~🎓 I’m A B.Tech (CSBS) Student<br>~🔭 I’m Currently Learning Web Dev (MERN), App Dev (React Native), Data Structures & Algorithms With Keen Interest In AIML<br>~💻 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>~🏊‍♂️ In My Free Time, You’ll Find Me Swimming Or Exploring New Tech</h4>
+<h4 align="left">I Am Kris Mehra From West Bengal, India 🇮🇳<br><br>~🎓 I’m A B.Tech (CSBS) '27 Student<br>~🔭 I’m Currently Learning Web Dev (MERN), App Dev (React Native), Data Structures & Algorithms With Keen Interest In AIML<br>~💻 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>~🏊‍♂️ In My Free Time, You’ll Find Me Swimming Or Exploring New Tech</h4>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ASPIRING+SOFTWARE+DEVELOPER;MERN+DSA+AI/ML+APP+DEVELOPMENT;HAPPY+CODING+😇)](https://git.io/typing-svg)
 
