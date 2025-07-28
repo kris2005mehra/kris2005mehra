@@ -12,17 +12,21 @@
 
 <h4 align="left">I Am Kris Mehra From West Bengal, India 🇮🇳<br><br>🎓 I’m A B.Tech (CSBS) '27 Student<br>🔭 I’m Currently Learning Web Dev (MERN), App Dev (Flutter & Dart), Data Structures & Algorithms (C++) With Keen Interest In AI/ML<br>💻 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>🏊‍♂️ In My Free Time, You’ll Find Me Swimming Or Exploring New Tech</h4>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ASPIRING+SOFTWARE+DEVELOPER;MERN+DSA+AI/ML+APP+DEVELOPMENT;HAPPY+CODING+😇)](https://git.io/typing-svg)
- <br>
+<br>
+<div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
+  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1F75FE&center=true&vCenter=true&width=800&lines=WEB+%26+APP+DEV+%7C+AI%2FML+%7C+DSA+%7C+HAPPY+CODING+%F0%9F%92%99" alt="Typing SVG" />
+ 
+  <br>
 <div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
 
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kris2005mehra/kris2005mehra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kris2005mehra/kris2005mehra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kris2005mehra/kris2005mehra/output/pacman-contribution-graph.svg">
 </picture>
-<br>
-<div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
 
 ###
 
