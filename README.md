@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="https://i.pinimg.com/originals/c6/68/eb/c668eb3687aa1011bd43aa575cc1ef77.gif" width=100% />
+  <img height="250" src="https://i.pinimg.com/originals/c6/68/eb/c668eb3687aa1011bd43aa575cc1ef77.gif" width=100% />
 </div>
 
 <h1 align="center">Welcome To My Profile 👋🏻 !!!</h1>
@@ -115,7 +115,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris2005mehra&theme=react&l&hide_border=false&border_radius=5&order=3" height="180" alt="Most Used Languages" /> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="340">
+  <img src="https://streak-stats.demolab.com?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris2005mehra&theme=react&l&hide_border=false&border_radius=5&order=3" height="180" alt="Most Used Languages" /> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="250">
 </div>
 </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kris2005mehra&theme=react-dark" alt="Activity Graph"/> </p>
 
