@@ -10,7 +10,14 @@
 
 ###
 
-<h4 align="left">I Am Kris Mehra From West Bengal, India 🇮🇳<br><br>🎓 I’m A B.Tech (CSBS) '27 Student<br>🔭 I’m Currently Learning Web Dev (MERN), App Dev (Flutter & Dart), Data Structures & Algorithms (C++) With Keen Interest In AI/ML<br>💻 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>🏊‍♂️ In My Free Time, You’ll Find Me Swimming Or Exploring New Tech</h4>
+<h4 align="left" style="font-size: 50px;">
+  I Am Kris Mehra From West Bengal, India 🇮🇳<br><br>
+  🎓 I’m A B.Tech (CSBS) '27 Student<br>
+  🔭 I’m Currently Learning Web Dev (MERN), App Dev (Flutter & Dart), Data Structures & Algorithms (C++) With Keen Interest In AI/ML<br>
+  💻 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>
+  🏊‍♂️ In My Free Time, You’ll Find Me Swimming Or Exploring New Tech
+</h4>
+
 
 <br>
 <div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=100% />
