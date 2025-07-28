@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">👨🏻‍💻 About Me :</h2>
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
 ###
 
@@ -17,22 +17,23 @@
   
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1F75FE&center=true&vCenter=true&width=800&lines=WEB+%26+APP+DEV+%7C+AI%2FML+%7C+DSA+%7C+HAPPY+CODING+%F0%9F%92%99" alt="Typing SVG" />
- 
-  <br>
+<br>
 <div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
+</h1>
 
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kris2005mehra/kris2005mehra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kris2005mehra/kris2005mehra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kris2005mehra/kris2005mehra/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<h2 align="left">🛠 Language And Tools :</h2>
 
 ###
+
+<h2 align="left">🛠 Language And Tools</h2>
+
+###
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
@@ -112,7 +113,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥   My Stats</h2>
 
 ###
 
@@ -128,7 +129,7 @@
 
 ###
 
-<h2 align="left">💬 Social Media :</h2>
+<h2 align="left">💬 Social Media </h2>
 
 ###
 
