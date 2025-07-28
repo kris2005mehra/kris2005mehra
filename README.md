@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/c6/68/eb/c668eb3687aa1011bd43aa575cc1ef77.gif"/>
+  <img height="280" src="https://i.pinimg.com/originals/c6/68/eb/c668eb3687aa1011bd43aa575cc1ef77.gif" width=100% />
 </div>
 
-<h1 align="center">Welcome To My Profile 👋🏻</h1>
+<h1 align="center">Welcome To My Profile 👋🏻 !!!</h1>
 
 ###
 
@@ -13,12 +13,12 @@
 <h4 align="left">I Am Kris Mehra From West Bengal, India 🇮🇳<br><br>🎓 I’m A B.Tech (CSBS) '27 Student<br>🔭 I’m Currently Learning Web Dev (MERN), App Dev (Flutter & Dart), Data Structures & Algorithms (C++) With Keen Interest In AI/ML<br>💻 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>🏊‍♂️ In My Free Time, You’ll Find Me Swimming Or Exploring New Tech</h4>
 
 <br>
-<div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
+<div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=100% />
   
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1F75FE&center=true&vCenter=true&width=800&lines=WEB+%26+APP+DEV+%7C+AI%2FML+%7C+DSA+%7C+HAPPY+CODING+%F0%9F%92%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=WEB+%26+APP+DEV+%7C+AI%2FML+%7C+DSA+%7C+OPEN+SOURCE+%F0%9F%92%99" alt="Typing SVG" />
 <br>
-<div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
+<div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=100% />
 </h1>
 
 <picture>
@@ -105,26 +105,23 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo"  />
 </div>
 
-###
-
 <div align="center">
   <img height="250" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
 </div>
 
-###
 
 <h2 align="left">🔥   My Stats</h2>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kris2005mehra&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris2005mehra&theme=react&l&hide_border=false&border_radius=5&order=3" height="180" alt="Most Used Languages" /> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="340">
 </div>
+</p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kris2005mehra&theme=react-dark" alt="Activity Graph"/> </p>
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=kris2005mehra&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kris2005mehra&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="kris2005mehra" /></a> 
 </div>
 
 ###
