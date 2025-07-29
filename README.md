@@ -122,13 +122,13 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris2005mehra&theme=react&l&hide_border=false&border_radius=5&order=3" height="180" alt="Most Used Languages" />&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="170">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris2005mehra&theme=react&l&hide_border=false&border_radius=5&order=3" height="180" alt="Most Used Languages" />&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="170">
 </div>
 </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kris2005mehra&theme=react-dark" alt="Activity Graph"/> </p>
 
 ###
 
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kris2005mehra&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="kris2005mehra" /></a> 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kris2005mehra&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="kris2005mehra" />
 </div>
 
 ###
