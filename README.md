@@ -2,7 +2,7 @@
   <img height="250" src="https://i.pinimg.com/originals/c6/68/eb/c668eb3687aa1011bd43aa575cc1ef77.gif" width=100% />
 </div>
 
-<h1 align="center">Welcome To My Profile 👋🏻 !!!</h1>
+<h1 align="center">Welcome To My Github Profile 👋🏻</h1>
 
 ###
 
@@ -11,11 +11,10 @@
 ###
 
 <h4 align="left" style="font-size: 50px;">
-  I Am Kris Mehra From West Bengal, India 🇮🇳<br><br>
-  🎓 I’m A B.Tech (CSBS) '27 Student<br>
-  🔭 I’m Currently Learning Web Dev (MERN), App Dev (Flutter & Dart), Data Structures & Algorithms (C++) With Keen Interest In AI/ML<br>
-  💻 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>
-  🏊‍♂️ In My Free Time, You’ll Find Me Swimming Or Exploring New Tech
+  🔹 I’m A B.Tech (CSBS) '27 Student<br>
+  🔹 I’m Currently Learning Web Dev (MERN), App Dev (Flutter & Dart), Data Structures & Algorithms (C++) With Keen Interest In AI/ML<br>
+  🔹 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>
+  🔹 In My Free Time, You’ll Find Me Swimming Or Exploring New Tech
 </h4>
 
 
