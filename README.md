@@ -12,8 +12,8 @@
 
 <h4 align="left" style="font-size: 50px;">
   🔹 I’m A B.Tech (CSBS) '27 Student<br>
-  🔹 I’m Currently Learning Web Dev (MERN), App Dev (Flutter & Dart), Data Structures & Algorithms (C++) With Keen Interest In AI/ML<br>
-  🔹 I Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>
+  🔹 Learning Web Dev (MERN), App Dev (Flutter & Dart), Data Structures & Algorithms (C++) With Keen Interest In AI/ML<br>
+  🔹 Enjoy Coding, Contributing To Open-Source Projects And Building Cool Stuffs<br>
   🔹 In My Free Time, You’ll Find Me Swimming Or Exploring New Tech
 </h4>
 
