@@ -140,7 +140,7 @@
   <a href="https://www.linkedin.com/in/kris-mehra-328450322" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/Kris_Mehra22" target="_blank">
+  <a href="https://x.com/Let_Kris_Cook" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
   <a href="https://discord.gg/kriss0563" target="_blank">
