@@ -127,7 +127,7 @@
 
 ###
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kris2005mehra&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="kris2005mehra" />
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kris2005mehra&theme=darkhub" alt="kris2005mehra" />
 </div>
 
 ###
