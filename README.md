@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">👨🏻‍💻 About Me</h2>
+<h2 align="left">👨🏻‍💻 About Me </h2>
 
 ###
 
@@ -128,7 +128,7 @@
 ###
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kris2005mehra&theme=algolia" alt="GitHub Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=kris2005mehra&theme=algolia&row=1" alt="GitHub Trophy" />
 </div>
 
 
