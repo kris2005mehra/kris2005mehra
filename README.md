@@ -115,6 +115,14 @@
   <img height="250" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
 </div>
 
+###
+
+<h2 align="left">🌐 OpenSource Journey</h2>
+
+###
+
+[![An image of @kris2005mehra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kris2005mehra)](https://holopin.io/@kris2005mehra)
+
 
 <h2 align="left">📊 My Stats</h2>
 
