@@ -117,9 +117,10 @@
 
 ###
 
-<h2 align="left">🌐 OpenSource Journey</h2>
+<h2 align="left">🌎 OpenSource Journey</h2>
 
 ###
+**Hacktoberfest**
 
 [![An image of @kris2005mehra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kris2005mehra)](https://holopin.io/@kris2005mehra)
 
