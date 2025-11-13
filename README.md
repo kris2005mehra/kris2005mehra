@@ -124,6 +124,10 @@
 
 [![An image of @kris2005mehra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kris2005mehra)](https://holopin.io/@kris2005mehra)
 
+**GirlScript Summer Of Code**
+
+<img width="1200" height="900" alt="Kris_Mehra_certificate" src="https://github.com/user-attachments/assets/8907e33e-9849-4a64-a27b-97a9f1b79c65" />
+
 
 <h2 align="left">📊 My Stats</h2>
 
