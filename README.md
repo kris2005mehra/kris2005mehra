@@ -141,9 +141,8 @@
 ###
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kris2005mehra&theme=algolia&row=1" alt="GitHub Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kris2005mehra&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=1800" />
 </div>
-
 
 ###
 
