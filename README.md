@@ -145,7 +145,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" 
        alt="Streak Graph" 
        height="180" 
-       width="500" 
+       width="400" 
        style="object-fit: cover;" />
 </div>
 
