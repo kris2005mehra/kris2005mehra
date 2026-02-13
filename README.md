@@ -126,7 +126,12 @@
 
 **GirlScript Summer Of Code**
 
-<img width="1200" height="600" alt="Kris_Mehra_certificate" src="https://github.com/user-attachments/assets/8907e33e-9849-4a64-a27b-97a9f1b79c65" />
+<img width="1000" height="500" alt="Kris_Mehra_certificate" src="https://github.com/user-attachments/assets/8907e33e-9849-4a64-a27b-97a9f1b79c65" />
+
+**Winter Of Code Social**
+
+<img width="1000" height="500" alt="Screenshot 2026-02-14 at 3 39 22 AM" src="https://github.com/user-attachments/assets/682749c6-bf93-4548-b589-fc1c1f723a7c" />
+
 
 
 <h2 align="left">📊 My Stats</h2>
