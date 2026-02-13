@@ -135,7 +135,7 @@
 
 <div align="left">
   <!-- GitHub Stats Card -->
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kris2005mehra?cardType=octocat&theme=react&preferLogin=false" alt="GitHub Stats" height="180" width="400" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kris2005mehra?cardType=octocat&theme=react&preferLogin=false" alt="GitHub Stats" height="180" width="390" />
   
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="210" width="440" alt="Streak Graph" />
