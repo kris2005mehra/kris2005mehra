@@ -133,12 +133,22 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display: flex; gap: 10px;">
   <!-- GitHub Stats Card -->
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kris2005mehra?cardType=octocat&theme=react&preferLogin=false" alt="GitHub Stats" height="180" />
-  
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kris2005mehra?cardType=octocat&theme=react&preferLogin=false" 
+       alt="GitHub Stats" 
+       height="180" 
+       width="500" 
+       style="object-fit: cover;" />
+
   <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="180" alt="Streak Graph" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" 
+       alt="Streak Graph" 
+       height="180" 
+       width="500" 
+       style="object-fit: cover;" />
+</div>
+
   
   <!-- Custom Gif -->
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="170" alt="Fun Gif" />
