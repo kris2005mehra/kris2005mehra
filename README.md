@@ -124,6 +124,11 @@
 
 [![An image of @kris2005mehra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kris2005mehra)](https://holopin.io/@kris2005mehra)
 ###
+**Aperture 3.O**
+
+<img width="1000" height="500" alt="Kris_Mehra_certificate" src="https://github.com/user-attachments/assets/7fb682e1-fb0a-4ca9-90ce-13d969e064c2" />
+
+###
 **GirlScript Summer Of Code**
 
 <img width="1000" height="500" alt="Kris_Mehra_certificate" src="https://github.com/user-attachments/assets/8907e33e-9849-4a64-a27b-97a9f1b79c65" />
