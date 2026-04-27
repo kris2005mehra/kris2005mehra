@@ -137,16 +137,15 @@
 
 ###
 
-<div align="left">
-  <!-- GitHub Stats Card -->
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kris2005mehra?cardType=octocat&theme=react&preferLogin=false" alt="GitHub Stats" height="180" width="390" />
-  
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false" height="210" width="390" alt="Streak Graph" />
-  
-  <!-- Custom Gif -->
- <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="170" alt="Fun Gif" />
-</div>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kris2005mehra?cardType=octocat&theme=react&preferLogin=false" alt="GitHub Stats" width="350" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false" alt="Streak Graph" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="170" alt="Fun Gif" />
+</p>
 
 </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kris2005mehra&theme=react-dark" alt="Activity Graph"/> </p>
 
