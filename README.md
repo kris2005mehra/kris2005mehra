@@ -140,14 +140,14 @@
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kris2005mehra?cardType=octocat&theme=react&preferLogin=false"
        alt="GitHub Stats"
-       height="180"
+       height="175"
        style="vertical-align: top;" />
 
   &nbsp;&nbsp;
 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kris2005mehra&locale=en&mode=daily&theme=react&hide_border=false"
        alt="Streak Graph"
-       height="180"
+       height="175"
        style="vertical-align: top;" />
 </p>
 
